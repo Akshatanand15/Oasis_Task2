@@ -1,2 +1,2 @@
-##Visual Graphs
+#Visual Graphs
 
